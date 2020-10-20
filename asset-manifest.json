@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-table-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-table-demo/static/js/main.a6b28f7d.chunk.js",
+    "main.js.map": "/react-table-demo/static/js/main.a6b28f7d.chunk.js.map",
+    "runtime-main.js": "/react-table-demo/static/js/runtime-main.c4e71d75.js",
+    "runtime-main.js.map": "/react-table-demo/static/js/runtime-main.c4e71d75.js.map",
+    "static/js/2.51283158.chunk.js": "/react-table-demo/static/js/2.51283158.chunk.js",
+    "static/js/2.51283158.chunk.js.map": "/react-table-demo/static/js/2.51283158.chunk.js.map",
+    "index.html": "/react-table-demo/index.html",
+    "precache-manifest.ae75c89220b3ae1a4147bca5744ff1e2.js": "/react-table-demo/precache-manifest.ae75c89220b3ae1a4147bca5744ff1e2.js",
+    "service-worker.js": "/react-table-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-table-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.51283158.chunk.js.LICENSE.txt": "/react-table-demo/static/js/2.51283158.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-table-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4e71d75.js",
+    "static/js/2.51283158.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a6b28f7d.chunk.js"
+  ]
+}
